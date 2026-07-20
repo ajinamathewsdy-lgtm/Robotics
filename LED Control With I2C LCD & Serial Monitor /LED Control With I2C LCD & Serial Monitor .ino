@@ -12,8 +12,8 @@ void setup() {
   lcd.init();          // Initialize the I2C LCD module
   lcd.backlight();     // Turn on the LCD backlight
   
-  lcd.print("Arduino Lab");
-  Serial.println("Experiment 1 Started");
+  lcd.print("Arduino");
+  Serial.println("Experiment Started");
 }
 
 void loop() {
