@@ -9,7 +9,7 @@ void setup()
 void loop()
 {
   digitalWrite(13, HIGH);
-  delay(d); // Wait for 1000 millisecond(s)
+  delay(d); 
   digitalWrite(13, LOW);
   delay(d);
   digitalWrite(12,HIGH);
