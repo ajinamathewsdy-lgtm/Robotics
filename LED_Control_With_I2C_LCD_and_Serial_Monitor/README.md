@@ -70,7 +70,7 @@ Circuit Connections
 
 Circuit Diagram
 
-<img width="1392" height="692" alt="image" src="https://github.com/user-attachments/assets/54faa803-bc4c-44aa-b3a0-cab115a8f38f" />
+![alt text](image.png)
 
 ---
 

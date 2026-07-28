@@ -57,7 +57,7 @@ Circuit Connections
 
 Circuit Diagram
 
-<img width="872" height="728" alt="image" src="https://github.com/user-attachments/assets/7c3bea3d-952a-4adf-97f7-402000b0ec1a" />
+![alt text](image.png)
 
 ---
 
